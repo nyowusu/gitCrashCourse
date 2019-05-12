@@ -9,6 +9,7 @@ This is a second Change
 Terminology
     - clone
     - repo = repository
-    - status
+    - status 
+    - staging and committing
     - log
     - push
